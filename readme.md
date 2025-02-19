@@ -6,7 +6,7 @@ This project is an API for a chat system using LlamaCPP and Retrieval-Augmented 
 
 ![Without RAG](1.png)
 
-![[With RAG](2.png)
+![With RAG](2.png)
 1. Retrieval-Augmented Generation (RAG)
 
 RAG technology allows the model to use external data (e.g. documents, knowledge bases) to generate more accurate and relevant answers. This is especially useful in areas such as:
