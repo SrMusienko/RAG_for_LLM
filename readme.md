@@ -2,6 +2,11 @@
 # RAG Chat API with FastAPI and LlamaCPP
 
 This project is an API for a chat system using LlamaCPP and Retrieval-Augmented Generation (RAG). It allows users to interact with a language model, providing answers that can be enhanced with information from documents when RAG is enabled.
+
+
+![Without RAG](1.png)
+
+![[With RAG](2.png)
 1. Retrieval-Augmented Generation (RAG)
 
 RAG technology allows the model to use external data (e.g. documents, knowledge bases) to generate more accurate and relevant answers. This is especially useful in areas such as:
